@@ -1,0 +1,10 @@
+name: example_app
+
+description: example useage of mason brick.
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+
+dependencies:
+  flutter:
+      sdk: flutter
